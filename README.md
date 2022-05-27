@@ -3,8 +3,8 @@
 project is to test Spring boot connection for Redis Standalone mode.
 
 Before run this code, execute redis in standalone mode first.
-To change Server IP address or port, please edit **_application.yaml_**, or you can write on **_Config.java _**.
-To change Key-value, please edit **_application.yaml_**, or you can write on **_Controller.java _**.
+To change Server IP address or port, please edit _**application.yaml**_, or you can write on _**Config.java**_.
+To change Key-value, please edit _**application.yaml**_, or you can write on _**Controller.java**_.
 
 
 I also upload test project for Redis Sentinel and Cluster mode.
